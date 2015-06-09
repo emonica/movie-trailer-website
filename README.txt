@@ -12,7 +12,7 @@ Archive contents
    supplied file with helper functions, with a couple of changes in order 
    to add the storyline for each movie as well
 
-* README
+* README.txt
 
 
 
